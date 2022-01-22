@@ -16,7 +16,8 @@ git clone https://github.com/Pakhs/MorseCodeTranslator.git
 ```bash
 ./translator.py -e
 ```
-Example:
+Example:\
+ 
 ![Example](https://github.com/Pakhs/MorseCodeTranslator/blob/main/img/encode.png)
 
 ## Decoding string
@@ -24,7 +25,8 @@ Example:
 ```bash
 ./translator.py -d
 ```
-Example: 
+Example:\
+ 
 ![Example](https://github.com/Pakhs/MorseCodeTranslator/blob/main/img/decode.png)
 
 ## Enco
