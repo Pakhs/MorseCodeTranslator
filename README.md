@@ -4,7 +4,7 @@ A very simple python morese code that can encode and decode morse code
 
 ## Installation
 
-Download the [zip file](https://github.com/Pakhs/MorseCodeTranslator/archive/refs/heads/main.zip) or clone the repository on your specified foldier
+Download the [zip file](https://github.com/Pakhs/MorseCodeTranslator/archive/refs/heads/main.zip) or clone the repository on your specified directory
 
 ```bash
 git clone https://github.com/Pakhs/MorseCodeTranslator.git
