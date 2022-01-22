@@ -29,4 +29,12 @@ Example:
  
 ![Example](https://github.com/Pakhs/MorseCodeTranslator/blob/main/img/decode.png)
 
-## Enco
+## Encoding File
+You can only encode a file that contains alphanumeric characters\
+Each line of the file will be kept as is, each word and letter follows the rules of the basic encoding
+```bash
+./translator.py -e -f "filename"
+```
+
+## Decoding file
+Not yet implemented
