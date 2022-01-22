@@ -11,10 +11,11 @@ git clone https://github.com/Pakhs/MorseCodeTranslator.git
 ```
 
 # Usage
+If you are on Windows, use python instead of python3
 ## Encoding string
 
 ```bash
-./translator.py -e
+python3 translator.py -e
 ```
 Example:
  
@@ -23,7 +24,7 @@ Example:
 ## Decoding string
 
 ```bash
-./translator.py -d
+python3 translator.py -d
 ```
 Example:
  
@@ -33,7 +34,7 @@ Example:
 You can only encode a file that contains alphanumeric characters\
 Each line of the file will be kept as is, each word and letter follows the rules of the basic encoding
 ```bash
-./translator.py -e -f "filename"
+python3 translator.py -e -f "filename"
 ```
 
 ## Decoding file
